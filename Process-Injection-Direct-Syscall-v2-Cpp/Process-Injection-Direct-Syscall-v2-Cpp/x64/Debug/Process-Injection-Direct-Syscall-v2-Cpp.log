@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\misiu\Documents\GitHub\Process-Injection-Direct-Syscall-v2-Cpp\Process-Injection-Direct-Syscall-v2-Cpp\Process-Injection-Direct-Syscall-v2-Cpp\Main.cpp(42,25): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Users\misiu\Documents\GitHub\Process-Injection-Direct-Syscall-v2-Cpp\Process-Injection-Direct-Syscall-v2-Cpp\Process-Injection-Direct-Syscall-v2-Cpp\Main.cpp(68,66): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+Main.obj : error LNK2019: unresolved external symbol myNtOpenProcess referenced in function main
+Main.obj : error LNK2019: unresolved external symbol myNtAllocateVirtualMemoryEx referenced in function main
+Main.obj : error LNK2019: unresolved external symbol myNtWriteVirtualMemory referenced in function main
+Main.obj : error LNK2019: unresolved external symbol myNtCreateThreadEx referenced in function main
+C:\Users\misiu\Documents\GitHub\Process-Injection-Direct-Syscall-v2-Cpp\Process-Injection-Direct-Syscall-v2-Cpp\x64\Debug\Process-Injection-Direct-Syscall-v2-Cpp.exe : fatal error LNK1120: 4 unresolved externals

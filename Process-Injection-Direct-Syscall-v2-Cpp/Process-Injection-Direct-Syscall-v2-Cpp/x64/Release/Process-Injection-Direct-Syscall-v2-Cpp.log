@@ -1,0 +1,6 @@
+﻿  Assembling syscalls.asm...
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 78 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Process-Injection-Direct-Syscall-v2-Cpp.vcxproj -> C:\Users\misiu\Documents\GitHub\Process-Injection-Direct-Syscall-v2-Cpp\Process-Injection-Direct-Syscall-v2-Cpp\x64\Release\Process-Injection-Direct-Syscall-v2-Cpp.exe
